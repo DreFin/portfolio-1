@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+    background-color: green;
+}
+
+bigText{
+  font-size: 2em;
+  font-family: 'Courier New', 'Courier New', Courier, monospace;
+}
+
+#topSection{
+  color: lightslategrey;
+  background-color: rgba(119,136,153);
+}
+
+img{
+  border-radius: 1000px;
+}
